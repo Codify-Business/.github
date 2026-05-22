@@ -8,13 +8,13 @@
 
 ---
 
-### 🌐 Quem Somos
+### Quem Somos?
 
 Originada no Reino Unido e agora operando ativamente no mercado brasileiro, a **Codify** é uma empresa de tecnologia B2B dedicada a resolver gargalos operacionais e de mercado em Pequenas e Médias Empresas (PMEs). 
 
 Acreditamos que a tecnologia deve ser tratada como uma **alavanca estratégica e de receita**, e não como um custo operacional invisível. Nosso propósito é converter a operação física tradicional em um modelo digital eficiente, rentável e escalável.
 
-### 🚀 Nossas Soluções de Produto
+### Nossas Soluções de Produto
 
 Operamos em duas frentes tecnológicas interdependentes, projetadas para cobrir todo o ciclo de vida comercial do cliente:
 
@@ -30,13 +30,13 @@ O motor operacional central da empresa. Painéis administrativos enxutos, multi-
 * **Pipeline Comercial Organizadp:** Gestão do funil de vendas, evitando perda de leads e garantindo *follow-up*.
 * **Relatórios Táticos:** Visibilidade clara de custos, receitas e giro de estoque.
 
-### 🏎️ Setores com Forte Atuação
+### Setores com Forte Atuação
 
 Embora nosso modelo seja adaptável, temos especialização tática e regras de negócio profundas nos setores de:
 * **Revenda e Garagens de Veículos (Seminovos e Usados)**
 * **Auto Peças e Centros Automotivos**
 
-### 🛠️ Nossa Excelência Técnica
+### Nossa Excelência Técnica
 
 Nossa engenharia prioriza a **velocidade de entrega combinada com a integridade absoluta dos dados** dos nossos clientes. Utilizamos uma stack tecnológica de vanguarda que nos permite escalabilidade sem perdas de performance:
 
@@ -46,7 +46,7 @@ Nossa engenharia prioriza a **velocidade de entrega combinada com a integridade 
 
 ---
 
-### 📬 Conexões e Parcerias
+### Conexões e Parcerias
 
 A Codify opera ativamente para expandir a maturidade digital de empresas no Brasil. Se o seu negócio ou sua revenda precisa de controle tático e previsibilidade comercial, fale conosco.
 

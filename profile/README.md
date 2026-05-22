@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/logo-codify.png" width="220" alt="Codify Logo" />
+  <img src="../assets/Logo Codify.png" width="220" alt="Codify Logo" />
   
   # Codify - Engineering Growth
   

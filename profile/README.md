@@ -38,11 +38,7 @@ Embora nosso modelo seja adaptável, temos especialização tática e regras de 
 
 ### Nossa Excelência Técnica
 
-Nossa engenharia prioriza a **velocidade de entrega combinada com a integridade absoluta dos dados** dos nossos clientes. Utilizamos uma stack tecnológica de vanguarda que nos permite escalabilidade sem perdas de performance:
-
-* **Lovable Powered (Interface):** Construção acelerada de interfaces React e TypeScript ultra-responsivas.
-* **Supabase (Backend/Database):** Arquiteturas relacionais PostgreSQL blindadas, garantindo isolamento total de dados entre tenants (RLS).
-* **Yarn & GitHub Workflow:** Esteira de desenvolvimento rigorosa para estabilidade contínua da operação B2B em produção.
+Nossa engenharia prioriza a **velocidade de entrega combinada com a integridade absoluta dos dados** dos nossos clientes. Utilizamos uma stack tecnológica de vanguarda que nos permite escalabilidade sem perdas de performance.
 
 ---
 
